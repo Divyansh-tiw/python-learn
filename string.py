@@ -22,10 +22,10 @@
 # print(s[5:])
 # print(s[5: len(s)])
 
-# s = "lets code in python"
+s = "lets code in python"
 
-# print(s.endswith("on"))
-# print(s.capitalize())
-# print(s.find("code"))
-# print(s.count('o'))
-# print(s.replace('o', 'i'))
+print(s.endswith("on"))
+print(s.capitalize())
+print(s.find("code"))
+print(s.count('o'))
+print(s.replace('o', 'i'))
